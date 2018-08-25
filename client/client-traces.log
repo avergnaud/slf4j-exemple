@@ -1,0 +1,5 @@
+2018-08-25 10:46:01,997 INFO [com.poc.Main] - Hello this is an info message
+2018-08-25 11:06:49,883 INFO [com.poc.Main] - Hello this is an info message
+2018-08-25 11:17:47,519 INFO [com.poc.Main] - Hello this is an info message
+2018-08-25 11:22:06,799 INFO [com.poc.Main] - Hello this is an info message
+2018-08-25 11:22:06,816 INFO [com.poc.util.Util] - hello from util
